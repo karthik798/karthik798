@@ -9,6 +9,6 @@
 
 - 📫 How to reach me **karthikveduvar@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mysql,mongodb,vscode)](https://skillicons.dev)
